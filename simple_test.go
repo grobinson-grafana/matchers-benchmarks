@@ -9,7 +9,7 @@ import (
 
 const (
 	simpleEquals  = "{foo=\"bar\"}"
-	complexEquals = "{foo=\"bar\",bar=\"foo 🙂\",\"baz\"!=qux,qux!=\"baz 🙂\"}"
+	complexEquals = "{foo=\"bar\",bar=\"foo 🙂\",baz!=qux,qux!=\"baz 🙂\"}"
 )
 
 func BenchmarkMatchersSimple(b *testing.B) {

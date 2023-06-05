@@ -9,7 +9,7 @@ import (
 
 const (
 	simpleRegex  = "{foo=~\"[a-zA-Z_:][a-zA-Z0-9_:]*\"}"
-	complexRegex = "{foo=~\"[a-zA-Z_:][a-zA-Z0-9_:]*\",bar=~\"[a-zA-Z_:]\",\"baz\"!~\"[a-zA-Z_:][a-zA-Z0-9_:]*\",qux!~\"[a-zA-Z_:]\"}"
+	complexRegex = "{foo=~\"[a-zA-Z_:][a-zA-Z0-9_:]*\",bar=~\"[a-zA-Z_:]\",baz!~\"[a-zA-Z_:][a-zA-Z0-9_:]*\",qux!~\"[a-zA-Z_:]\"}"
 )
 
 func BenchmarkMatchersRegexSimple(b *testing.B) {
