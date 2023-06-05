@@ -1,11 +1,11 @@
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/grobinson-grafana/matchers v0.0.0-20230505094716-1ca67cb2d75e h1:xbtdtuJhufnyr1erA96UQjQfntq5QWUVRq16oikgH5U=
 github.com/grobinson-grafana/matchers v0.0.0-20230505094716-1ca67cb2d75e/go.mod h1:HE5p32VRCQh3pch31pHTuVxkvd/efaTDr/ggt2qtoxE=
+github.com/grobinson-grafana/matchers v0.0.0-20230528130227-07c6c200d343 h1:Y006/19n+TelWvpodfqVwLYI9+HpC0BD+izsuDbdDWY=
+github.com/grobinson-grafana/matchers v0.0.0-20230528130227-07c6c200d343/go.mod h1:HE5p32VRCQh3pch31pHTuVxkvd/efaTDr/ggt2qtoxE=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
 github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
-github.com/prometheus/alertmanager v0.25.0 h1:vbXKUR6PYRiZPRIKfmXaG+dmCKG52RtPL4Btl8hQGvg=
-github.com/prometheus/alertmanager v0.25.0/go.mod h1:MEZ3rFVHqKZsw7IcNS/m4AWZeXThmJhumpiWR4eHU/w=
 github.com/prometheus/common v0.42.0 h1:EKsfXEYo4JpWMHH5cg+KOUWeuJSov1Id8zGR8eeI1YM=
 github.com/prometheus/common v0.42.0/go.mod h1:xBwqVerjNdUDjgODMpudtOMwlOwf2SaTr1yjz4b7Zbc=
 github.com/stretchr/testify v1.8.2 h1:+h33VjcLVPDHtOdpUCuF+7gSuG3yGIftsP1YvFihtJ8=
