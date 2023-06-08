@@ -1,8 +1,6 @@
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
-github.com/grobinson-grafana/matchers v0.0.0-20230505094716-1ca67cb2d75e h1:xbtdtuJhufnyr1erA96UQjQfntq5QWUVRq16oikgH5U=
-github.com/grobinson-grafana/matchers v0.0.0-20230505094716-1ca67cb2d75e/go.mod h1:HE5p32VRCQh3pch31pHTuVxkvd/efaTDr/ggt2qtoxE=
-github.com/grobinson-grafana/matchers v0.0.0-20230528130227-07c6c200d343 h1:Y006/19n+TelWvpodfqVwLYI9+HpC0BD+izsuDbdDWY=
-github.com/grobinson-grafana/matchers v0.0.0-20230528130227-07c6c200d343/go.mod h1:HE5p32VRCQh3pch31pHTuVxkvd/efaTDr/ggt2qtoxE=
+github.com/grobinson-grafana/matchers v0.0.0-20230608152622-75a5eb70e9e6 h1:yrHQJ5sk3lOxPBKilkrAE2eFjJ5eY143ojz/h+2bHtU=
+github.com/grobinson-grafana/matchers v0.0.0-20230608152622-75a5eb70e9e6/go.mod h1:HE5p32VRCQh3pch31pHTuVxkvd/efaTDr/ggt2qtoxE=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
 github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=

@@ -3,7 +3,7 @@ module github.com/grobinson-grafana/matchers-benchmarks
 go 1.19
 
 require (
-	github.com/grobinson-grafana/matchers v0.0.0-20230528130227-07c6c200d343
+	github.com/grobinson-grafana/matchers v0.0.0-20230608152622-75a5eb70e9e6
 	github.com/prometheus/alertmanager v0.25.0
 )
 
